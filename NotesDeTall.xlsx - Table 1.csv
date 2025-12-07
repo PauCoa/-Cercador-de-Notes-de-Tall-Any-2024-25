@@ -1,0 +1,615 @@
+Digit,Grau,Universitat,Nota,Ciutat
+1,"Administració d'Empreses i Gestió de la Innovació ""Tecnocampus"" (Mataró)",UPF,"7,688",Mataró
+2,"Administració d'Empreses i Gestió de la Innovació ""Tecnocampus""  (Mataró)",UPF,"7,628",Mataró
+3,"Administració d'Empreses i Gestió de la Innovació / Màrqueting i Comunitats
+Digitals ""Tecnocampus""  (Mataró)",UPF,"7,546",Mataró
+4,"Administració d'Empreses i Gestió de la Innovació / Turisme i Gestió del Lleure
+""Tecnocampus""  (Mataró)",UPF,"5,000",Mataró
+5,Administració i Direcció d'Empreses (Barcelona),UB,"9,348",Barcelona
+6,Administració i Direcció d'Empreses (Barcelona),UPF,"10,966",Barcelona
+7,"Administració i Direcció d'Empreses ""IGEMA"" (Barcelona)",URV,"5,000",Barcelona
+8,Administració i Direcció d'Empreses (Cerdanyola del Vallès),UAB,"9,804",Cerdanyola del Vallès
+9,Administració i Direcció d'Empreses (Cerdanyola del Vallès),UAB,"10,128",Cerdanyola del Vallès
+10,Administració i Direcció d'Empreses (Girona),UdG,"9,218",Girona
+11,Administració i Direcció d'Empreses (Igualada),UdL,"8,224",Igualada
+12,Administració i Direcció d'Empreses (Lleida),UdL,"7,764",Lleida
+13,Administració i Direcció d'Empreses  (Manresa),UVic-UCC,"5,716",Manresa
+14,Administració i Direcció d'Empreses (Reus),URV,"8,413",Reus
+15,Administració i Direcció d'Empreses (Tortosa),URV,"7,220",Tortosa
+16,Administració i Direcció d'Empreses (Vic),UVic-UCC,"6,420",Vic
+17,Administració i Direcció d'Empreses / Dret  (Barcelona),UB,"10,692",Barcelona
+18,Administració i Direcció d'Empreses / Dret  (Cerdanyola del Vallès),UAB,"10,082",Cerdanyola del Vallès
+19,Administració i Direcció d'Empreses / Dret  (Girona),UdG,"9,838",Girona
+20,Administració i Direcció d'Empreses / Dret  (Lleida),UdL,"10,138",Lleida
+21,Administració i Direcció d'Empreses / Dret  (Tarragona / Reus),URV,"9,386",Tarragona / Reus
+22,Administració i Direcció d'Empreses / Economia  (Girona),UdG,"10,000",Girona
+23,"Administració i Direcció d'Empreses / Enginyeria en Organització Industrial i
+Logística  (Igualada)",UdL,"8,616",Igualada
+24,"Administració i Direcció d'Empreses / Enginyeria en Tecnologies Industrials
+ (Girona)",UdG,"10,198",Girona
+25,"Administració i Direcció d'Empreses / Enginyeria Informàtica 
+(Lleida)",UdL,"11,050",Lleida
+26,"Administració i Direcció d'Empreses / Finances i Comptabilitat 
+(Reus)",URV,"10,131",Reus
+27,"Administració i Direcció d'Empreses / Màrqueting ""ESIC""  (Reus / Barcelona)",URV,"9,120",Reus / Barcelona
+28,"Administració i Direcció d'Empreses / Màrqueting ""ESIC""  (Tortosa / Barcelona)",URV,"7,346",Tortosa / Barcelona
+29,Administració i Direcció d'Empreses / Matemàtiques  (Barcelona),UB,"11,980",Barcelona
+30,Administració i Direcció d'Empreses / Química  (Barcelona),UB,"10,916",Barcelona
+31,Administració i Direcció d'Empreses / Sociologia  (Barcelona),UB,"9,080",Barcelona
+32,"Administració i Direcció d'Empreses i Transformació de Negocis ""Centre
+Universitari EAE"" (Barcelona)",UdL,"5,000",Barcelona
+33,Administració i Direcció d'Empreses / Turisme  (Lleida),UdL,"7,360",Lleida
+34,Anglès (Tarragona),URV,"5,404",Tarragona
+35,Antropologia i Evolució Humana  (Tarragona),URV / UOC,"5,000",Tarragona
+36,Antropologia Social i Cultural (Barcelona),UB,"5,218",Barcelona
+37,Antropologia Social i Cultural (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+38,Arqueologia (Barcelona),UB,"5,000",Barcelona
+39,Arqueologia (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+40,Arqueologia / Història  (Barcelona),UB,"7,836",Barcelona
+41,Arquitectura Tècnica i Edificació (Barcelona),UPC,"8,950",Barcelona
+42,Arquitectura Tècnica i Edificació (Girona),UdG,"8,730",Girona
+43,Arquitectura Tècnica i Edificació  (Girona),UdG,"8,422",Girona
+44,Arquitectura Tècnica i Edificació (Lleida),UdL,"8,482",Lleida
+45,"Arquitectura, Estudis d' (Barcelona)",UPC,"10,104",Barcelona
+46,"Arquitectura, Estudis d' (Girona)",UdG,"9,968",Girona
+47,"Arquitectura, Estudis d' (Reus)",URV,"9,468",Reus
+48,"Arquitectura, Estudis d' (Sant Cugat del Vallès)",UPC,"10,608",Sant Cugat del Vallès
+49,"Arts Escèniques ""ERAM"" (Salt)",UdG,"5,000",Salt
+50,"Arts i Disseny ""Massana"" (Barcelona)",UAB,"5,000",Barcelona
+51,Audiologia General (Vic),UVic-UCC,"5,000",Vic
+52,Belles Arts (Barcelona),UB,"8,522",Barcelona
+53,"Belles Arts ""BAU"" (Barcelona)",UVic-UCC,"5,000",Barcelona
+54,Bioinformàtica (Barcelona / Cerdanyola del Vallès),UPC / UB /UAB / UPF,"10,900",Barcelona / Cerdanyola del Vallès
+55,Biologia (Barcelona),UB,"11,060",Barcelona
+56,Biologia (Cerdanyola del Vallès),UAB,"10,908",Cerdanyola del Vallès
+57,Biologia (Girona),UdG,"9,880",Girona
+58,Biologia (Vic),UVic-UCC,"6,375",Vic
+59,Biologia / Biotecnologia  (Girona),UdG,"11,458",Girona
+60,Biologia / Ciències Ambientals  (Girona),UdG,"10,136",Girona
+61,Biologia Ambiental (Cerdanyola del Vallès),UAB,"10,714",Cerdanyola del Vallès
+62,Biomedicina (Vic),UVic-UCC,"10,566",Vic
+63,Bioquímica (Barcelona),UB,"11,621",Barcelona
+64,Bioquímica (Cerdanyola del Vallès),UAB,"11,236",Cerdanyola del Vallès
+65,Bioquímica i Biologia Molecular (Tarragona),URV,"11,020",Tarragona
+66,Bioquímica i Biologia Molecular / Biotecnologia  (Tarragona),URV,"12,280",Tarragona
+67,Biotecnologia (Barcelona),UB,"11,830",Barcelona
+68,Biotecnologia (Cerdanyola del Vallès),UAB,"11,506",Cerdanyola del Vallès
+69,Biotecnologia (Girona),UdG,"10,354",Girona
+70,Biotecnologia (Lleida),UdL,"10,196",Lleida
+71,Biotecnologia (Tarragona),URV,"10,816",Tarragona
+72,Biotecnologia (Vic),UVic-UCC,"7,432",Vic
+73,Biotecnologia / Enginyeria Informàtica  (Tarragona),URV,"10,224",Tarragona
+74,"Ciberseguretat ""ENTI"" (Barcelona)",UB,"8,299",Barcelona
+75,Ciència i Enginyeria de Dades (Barcelona),UPC,"12,514",Barcelona
+76,Ciència i Producció Animal / Veterinària  (Lleida),UdL,"11,329",Lleida
+77,Ciència i Tecnologia dels Aliments (Cerdanyola del Vallès),UAB,"9,032",Cerdanyola del Vallès
+78,Ciència i Tecnologia dels Aliments (Lleida),UdL,"5,770",Lleida
+79,Ciència i Tecnologia dels Aliments (Santa Coloma de Gramenet),UB,"8,638",Santa Coloma de Gramenet
+80,Ciència Política i Gestió Pública (Cerdanyola del Vallès),UAB,"8,866",Cerdanyola del Vallès
+81,Ciència Política i Gestió Pública / Dret  (Cerdanyola del Vallès),UAB,"11,240",Cerdanyola del Vallès
+82,"Ciència Política i Gestió Pública / Sociologia  (Cerdanyola del
+Vallès)",UAB,"9,694",Cerdanyola del Vallès
+83,"Ciència, Tecnologia i Humanitats (Cerdanyola del Vallès)",UAB,"7,260",Cerdanyola del Vallès
+84,Ciències (Cerdanyola del Vallès),UAB,"7,920",Cerdanyola del Vallès
+85,Ciències Ambientals (Barcelona),UB,"9,464",Barcelona
+86,Ciències Ambientals (Cerdanyola del Vallès),UAB,"8,958",Cerdanyola del Vallès
+87,Ciències Ambientals (Girona),UdG,"6,264",Girona
+88,Ciències Ambientals / Geologia  (Cerdanyola del Vallès),UAB,"8,096",Cerdanyola del Vallès
+89,Ciències Biomèdiques (Barcelona),UPF,"12,046",Barcelona
+90,Ciències Biomèdiques (Barcelona / L'Hospitalet de Llobregat),UB,"12,192",Barcelona / L'Hospitalet de Llobregat
+91,Ciències Biomèdiques (Cerdanyola del Vallès),UAB,"12,372",Cerdanyola del Vallès
+92,Ciències Biomèdiques (Lleida),UdL,"11,580",Lleida
+93,"Ciències Culinàries i Gastronòmiques ""CETT"" (Barcelona)",UB,"5,000",Barcelona
+94,"Ciències de l'Activitat Física i de l'Esport ""EUSES"" (Amposta)",URV,"6,260",Amposta
+95,Ciències de l'Activitat Física i de l'Esport (Barcelona),UB,"10,224",Barcelona
+96,Ciències de l'Activitat Física i de l'Esport (La Seu d'Urgell),UdL,"9,150",La Seu d'Urgell
+97,Ciències de l'Activitat Física i de l'Esport (Lleida),UdL,"9,386",Lleida
+98,"Ciències de l'Activitat Física i de l'Esport ""Tecnocampus"" (Mataró)",UPF,"8,245",Mataró
+99,"Ciències de l'Activitat Física i de l'Esport ""EUSES"" (Salt)",UdG,"5,730",Salt
+100,Ciències de l'Activitat Física i de l'Esport (Vic),UVic-UCC,"7,163",Vic
+101,"Ciències de l'Activitat Física i de l'Esport / Educació Primària 
+(Lleida)",UdL,"8,956",Lleida
+102,"Ciències de l'Activitat Física i de l'Esport / Educació Primària 
+Educació Física)  (Vic)",UVic-UCC,"5,734",Vic
+103,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia (Lleida),UdL,"11,596",Lleida
+104,"Ciències de l'Activitat Física i de l'Esport / Fisioteràpia ""Tecnocampus""
+ (Mataró)",UPF,"8,346",Mataró
+105,"Ciències de l'Activitat Física i de l'Esport / Fisioteràpia ""EUSES"" 
+(Salt)",UdG,"6,918",Salt
+106,"Ciències de l'Activitat Física i de l'Esport / Fisioteràpia ""EUSES"" 
+(Amposta / Tortosa)",URV,"6,312",Amposta / Tortosa
+107,Ciències de l'Antiguitat (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+108,Ciències del Mar (Barcelona),UB,"10,391",Barcelona
+109,Ciències Empresarials - Management (Barcelona),UPF,"11,158",Barcelona
+110,Ciències i Tecnologies del Mar (Castelldefels / Barcelona / Vilanova i la Geltrú),UPC,"7,662",Castelldefels / Barcelona / Vilanova i la Geltrú
+111,Ciències Polítiques i de l'Administració (Barcelona),UB,"8,678",Barcelona
+112,Ciències Polítiques i de l'Administració (Barcelona),UPF,"9,082",Barcelona
+113,Ciències Polítiques i de l'Administració (Girona),UdG,"7,578",Girona
+114,Ciències Polítiques i de l'Administració / Dret  (Barcelona),UB,"11,475",Barcelona
+115,Ciències Polítiques i de l'Administració / Dret  (Girona),UdG,"9,556",Girona
+116,"Cinematografia ""ESCAC"" (Terrassa)",UB,"5,000",Terrassa
+117,Comptabilitat i Finances (Girona),UdG,"7,872",Girona
+118,Comptabilitat i Finances (Sabadell),UAB,"8,648",Sabadell
+119,Comunicació Audiovisual (Barcelona),UB,"11,286",Barcelona
+120,Comunicació Audiovisual (Barcelona),UPF,"11,659",Barcelona
+121,Comunicació Audiovisual (Cerdanyola del Vallès),UAB,"10,832",Cerdanyola del Vallès
+122,Comunicació Audiovisual (Tarragona),URV,"9,712",Tarragona
+123,Comunicació Audiovisual (Vic),UVic-UCC,"5,000",Vic
+124,"Comunicació Audiovisual / Gestió d'Informació i Documentació Digital
+ (Barcelona)",UB,"10,088",Barcelona
+125,"Comunicació Audiovisual i Multimèdia ""ERAM"" (Salt)",UdG,"5,000",Salt
+126,"Comunicació Audiovisual i Multimèdia ""ERAM"" (Salt)",UdG,"5,000",Salt
+127,Comunicació Cultural (Girona),UdG,"5,000",Girona
+128,Comunicació de les Organitzacions (Cerdanyola del Vallès),UAB,"9,390",Cerdanyola del Vallès
+129,Comunicació i Indústries Culturals (Barcelona),UB,"9,125",Barcelona
+130,Comunicació i Periodisme Audiovisuals (Lleida),UdL,"6,394",Lleida
+131,Comunicació Interactiva (Cerdanyola del Vallès),UAB,"7,854",Cerdanyola del Vallès
+132,Conservació - Restauració de Béns Culturals (Barcelona),UB,"7,020",Barcelona
+133,Conservació de la Natura / Enginyeria Forestal  (Lleida),UdL,"5,000",Lleida
+134,Criminologia (Barcelona),UB,"9,783",Barcelona
+135,"Criminologia ""ESERP"" (Barcelona)",UVic-UCC,"5,000",Barcelona
+136,Criminologia (Cerdanyola del Vallès),UAB,"9,509",Cerdanyola del Vallès
+137,Criminologia (Girona),UdG,"8,604",Girona
+138,Criminologia / Dret  (Cerdanyola del Vallès),UAB,"10,866",Cerdanyola del Vallès
+139,Criminologia / Dret  (Girona),UdG,"9,300",Girona
+140,Criminologia i Polítiques Públiques de Prevenció (Barcelona),UPF,"9,334",Barcelona
+141,"Criminologia i Polítiques Públiques de Prevenció / Dret 
+(Barcelona)",UPF,"10,776",Barcelona
+142,Direcció d'Empreses Hoteleres i Gastronòmiques (Sant Pol de Mar),UdG,"5,000",Sant Pol de Mar
+143,Direcció Hotelera (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+144,"Direcció Hotelera Internacional ""CETT"" (Barcelona)",UB,"5,000",Barcelona
+145,"Direcció i Gestió d'Empreses en l'Àmbit Digital ""ESIC"" (Barcelona)",URV,"5,000",Barcelona
+146,"Direcció i Gestió d'Empreses en l'Àmbit Digital ""ESIC"" (Barcelona)",URV,"5,000",Barcelona
+147,"Direcció i Gestió Gastronòmica ""Barcelona Culinary Hub"" (L'Hospitalet de Llobregat)",UB,"5,000",L'Hospitalet de Llobregat
+148,Disseny (Barcelona),UB,"10,700",Barcelona
+149,"Disseny ""BAU"" (Barcelona)",UVic-UCC,"5,000",Barcelona
+150,"Disseny ""Eina"" (Barcelona)",UAB,"5,000",Barcelona
+151,Disseny Digital i Tecnologies Creatives (Lleida),UdL,"8,398",Lleida
+152,Disseny Digital i Tecnologies Multimèdia (Terrassa),UPC,"5,000",Terrassa
+153,Disseny i Desenvolupament de Videojocs (Barcelona / Terrassa),UPC,"5,000",Barcelona / Terrassa
+154,Disseny i Desenvolupament de Videojocs (Girona),UdG,"7,408",Girona
+155,Disseny i Desenvolupament de Videojocs (Barcelona /Terrassa),UPC,"5,000",Barcelona /Terrassa
+156,"Disseny i Desenvolupament de Videojocs i Jocs Aplicats ""ENTI"" (Barcelona)",UB,"5,000",Barcelona
+157,"Disseny i Innovació ""ELISAVA"" (Barcelona)",UVic-UCC,"5,000",Barcelona
+158,"Disseny i Producció de Videojocs ""Tecnocampus"" (Mataró)",UPF,"5,000",Mataró
+159,"Disseny i Producció de Videojocs / Enginyeria Informàtica de Gestió i Sistemes
+d'Informació ""Tecnocampus""  (Mataró)",UPF,"5,000",Mataró
+160,"Disseny per als Sistemes Alimentaris ""ELISAVA-CETT"" (Barcelona)","UVic-UCC /
+UB","5,000",Barcelona
+161,"Disseny, Animació i Art Digital (Terrassa)",UPC,"8,796",Terrassa
+162,"Disseny, Animació i Art Digital per a Videojocs i Jocs Aplicats ""ENTI"" (Barcelona)",UB,"6,148",Barcelona
+163,Dret (Barcelona),UB,"9,584",Barcelona
+164,Dret (Barcelona),UPF,"10,463",Barcelona
+165,"Dret ""ESERP"" (Barcelona)",UVic-UCC,"5,000",Barcelona
+166,Dret (Cerdanyola del Vallès),UAB,"9,528",Cerdanyola del Vallès
+167,Dret (Girona),UdG,"8,494",Girona
+168,Dret (Lleida),UdL,"8,043",Lleida
+169,Dret (Tarragona),URV,"8,460",Tarragona
+170,Dret / Administració i Direcció d'Empreses - Economia (Barcelona),UPF,"11,860",Barcelona
+171,Dret / Relacions Internacionals  (Cerdanyola del Vallès),UAB,"12,714",Cerdanyola del Vallès
+172,Dret / Relacions Laborals  (Cerdanyola del Vallès),UAB,"9,926",Cerdanyola del Vallès
+173,Dret / Relacions Laborals i Recursos Humans  (Tarragona),URV,"8,638",Tarragona
+174,Economia (Barcelona),UB,"9,114",Barcelona
+175,Economia (Barcelona),UPF,"10,580",Barcelona
+176,Economia (Cerdanyola del Vallès),UAB,"9,072",Cerdanyola del Vallès
+177,Economia (Cerdanyola del Vallès),UAB,"9,500",Cerdanyola del Vallès
+178,Economia (Girona),UdG,"8,832",Girona
+179,Economia (Reus),URV,"8,000",Reus
+180,Economia / Estadística  (Barcelona),UB / UPC,"10,900",Barcelona
+181,Economia / Filosofia  (Girona),UdG,"8,086",Girona
+182,"Economia / Matemàtica Computacional i Analítica de Dades 
+(Cerdanyola del Vallès)",UAB,"11,402",Cerdanyola del Vallès
+183,Educació Infantil (Barcelona),UB,"8,840",Barcelona
+184,Educació Infantil (Cerdanyola del Vallès),UAB,"9,109",Cerdanyola del Vallès
+185,Educació Infantil (el Vendrell),URV,"7,787",el Vendrell
+186,Educació Infantil (Girona),UdG,"8,270",Girona
+187,Educació Infantil (Lleida),UdL,"5,000",Lleida
+188,Educació Infantil  (Manresa),UVic-UCC,"5,000",Manresa
+189,Educació Infantil (Tarragona),URV,"7,874",Tarragona
+190,Educació Infantil (Tortosa),URV,"5,000",Tortosa
+191,Educació Infantil (Vic),UVic-UCC,"5,000",Vic
+192,Educació Infantil / Educació Primària (Barcelona),UB,"10,710",Barcelona
+193,Educació Infantil / Educació Primària (Cerdanyola del Vallès),UAB,"10,693",Cerdanyola del Vallès
+194,Educació Infantil / Educació Primària (Girona),UdG,"9,900",Girona
+195,Educació Infantil / Educació Primària (Lleida),UdL,"8,820",Lleida
+196,Educació Infantil / Educació Primària  (Tarragona),URV,"9,968",Tarragona
+197,Educació Infantil / Educació Primària (Tortosa),URV,"8,596",Tortosa
+198,Educació Infantil / Educació Primària (Vic),UVic-UCC,"5,400",Vic
+199,Educació Primària (Barcelona),UB,"8,938",Barcelona
+200,Educació Primària (Cerdanyola del Vallès),UAB,"8,960",Cerdanyola del Vallès
+201,Educació Primària (Cerdanyola del Vallès),UAB,"8,248",Cerdanyola del Vallès
+202,Educació Primària (Girona),UdG,"8,913",Girona
+203,Educació Primària (Lleida),UdL,"6,844",Lleida
+204,Educació Primària  (Lleida),UdL,"7,636",Lleida
+205,Educació Primària (Tarragona),URV,"8,956",Tarragona
+206,Educació Primària (Tortosa),URV,"7,294",Tortosa
+207,Educació Primària (Vic),UVic-UCC,"6,438",Vic
+208,Educació Social (Barcelona),UB,"8,319",Barcelona
+209,Educació Social (Cerdanyola del Vallès),UAB,"9,043",Cerdanyola del Vallès
+210,Educació Social (Girona),UdG,"7,766",Girona
+211,Educació Social (Lleida),UdL,"7,213",Lleida
+212,Educació Social (Tarragona),URV,"7,994",Tarragona
+213,Educació Social (Vic),UVic-UCC,"5,000",Vic
+214,Empresa i Tecnologia (Sabadell),UAB,"9,528",Sabadell
+215,"Empresa, Innovació i Tecnologia ""EUNCET"" 
+(Barcelona)",UPC,"5,846",Barcelona
+216,"Empresa, Innovació i Tecnologia ""EUNCET"" 
+(Barcelona)",UPC,"5,000",Barcelona
+217,"Empresa, Innovació i Tecnologia ""EUNCET"" 
+(Terrassa)",UPC,"5,000",Terrassa
+218,"Empresa, Innovació i Tecnologia ""EUNCET"" (Terrassa)",UPC,"5,000",Terrassa
+219,"Empresa, Innovació i Tecnologia / Gestió i Digitalització en l'Esport ""EUNCET""  (Barcelona)",UPC,"5,000",Barcelona
+220,"Empresa, Innovació i Tecnologia / Màrqueting, Innovació i Tecnologia ""EUNCET""    (Barcelona)",UPC,"5,210",Barcelona
+221,"Empresa, Innovació i Tecnologia / Màrqueting, Innovació i Tecnologia ""EUNCET"" (Terrassa)",UPC,"5,000",Terrassa
+222,Empresa Internacional (Barcelona),UB,"11,358",Barcelona
+223,Enginyeria Agrària i Alimentària (Lleida),UdL,"6,690",Lleida
+224,Enginyeria Agroalimentària (Girona),UdG,"7,134",Girona
+225,Enginyeria Alimentària (Castelldefels),UPC,"7,770",Castelldefels
+226,Enginyeria Ambiental (Castelldefels / Barcelona),UPC,"7,598",Castelldefels / Barcelona
+227,Enginyeria Audiovisual Computacional  (Barcelona),UPF,"8,163",Barcelona
+228,Enginyeria Biomèdica (Barcelona),UB,"12,740",Barcelona
+229,Enginyeria Biomèdica (Barcelona),UPF,"12,398",Barcelona
+230,Enginyeria Biomèdica (Barcelona / Sant Adrià de Besòs),UPC,"11,946",Barcelona / Sant Adrià de Besòs
+231,Enginyeria Biomèdica (Girona),UdG,"10,426",Girona
+232,Enginyeria Biomèdica (Tarragona),URV,"10,378",Tarragona
+233,"Enginyeria Biomèdica / Enginyeria de Sistemes i Serveis de Telecomunicacions
+ (Tarragona)",URV,"11,146",Tarragona
+234,Enginyeria Civil (Barcelona),UPC,"9,926",Barcelona
+235,"Enginyeria Civil, Grau en + Màster universitari en Enginyeria de Camins, Canals i Ports  (Barcelona)",UPC,"11,498",Barcelona
+236,"Enginyeria d'Automoció ""EU Salesiana de Sarrià"" (Barcelona)",UAB,"7,002",Barcelona
+237,Enginyeria d'Automoció  (Manresa / Barcelona),UPC,"10,550",Manresa / Barcelona
+238,Enginyeria de Bioprocessos Alimentaris (Tarragona),URV,"6,268",Tarragona
+239,Enginyeria de Ciències Agronòmiques (Castelldefels),UPC,"6,756",Castelldefels
+240,Enginyeria de Dades (Cerdanyola del Vallès),UAB,"10,290",Cerdanyola del Vallès
+241,"Enginyeria de Disseny Industrial ""ELISAVA"" (Barcelona)",UVic-UCC,"5,000",Barcelona
+242,Enginyeria de Disseny Industrial i Desenvolupament del Producte (Terrassa),UPC,"10,826",Terrassa
+243,"Enginyeria de Disseny Industrial i Desenvolupament del Producte (Vilanova i la
+Geltrú)",UPC,"8,784",Vilanova i la Geltrú
+244,Enginyeria de l'Automoció (Granollers),UVic-UCC,"6,866",Granollers
+245,Enginyeria de l'Energia (Barcelona / Sant Adrià de Besòs),UPC,"9,326",Barcelona / Sant Adrià de Besòs
+246,"Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i
+Automàtica / Enginyeria Mecànica  (Lleida)",UdL,"6,892",Lleida
+247,Enginyeria de Sistemes Aeroespacials / Enginyeria de Sistemes deTelecomunicació - Enginyeria Telemàtica (Castelldefels),UPC,"11,084",Castelldefels
+248,Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica / Enginyeria Mecànica Grau en + Màster Universitari en Enginyeria Industrial (Lleida)							,UdL,"9,978",Lleida
+249,"Enginyeria de l'Energia i Sostenibilitat / Enginyeria Mecànica 
+(Lleida)",UdL,"10,218",Lleida
+250,Enginyeria de Materials (Barcelona),UB,"8,826",Barcelona
+251,Enginyeria de Materials (Barcelona / Sant Adrià de Besòs),UPC,"8,984",Barcelona / Sant Adrià de Besòs
+252,Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica / Enginyeria Química / Enginyeria de Recursos Minerals i el seu Reciclatge (Manresa),UPC,"7,958",Manresa
+253,Enginyeria de Satèl·lits (Castelldefels),UPC,"11,068",Castelldefels
+254,Enginyeria de Sistemes Aeroespacials (Castelldefels),UPC,"11,410",Castelldefels
+255,Enginyeria de Sistemes Aeroespacials / Enginyeria de Sistemes de Telecomunicació - Enginyeria Telemàtica (Castelldefels),UPC,"11,084",Castelldefels
+256,Enginyeria de Sistemes Audiovisuals (Terrassa),UPC,"7,214",Terrassa
+257,Enginyeria de Sistemes Biològics (Castelldefels),UPC,"9,424",Castelldefels
+258,"Enginyeria de Sistemes de Telecomunicació / Enginyeria Electrònica de
+Telecomunicació  (Cerdanyola del Vallès)",UAB,"8,203",Cerdanyola del Vallès
+259,"Enginyeria de Sistemes de Telecomunicació / Enginyeria Informàtica
+ (Cerdanyola del Vallès)",UAB,"9,878",Cerdanyola del Vallès
+260,"Enginyeria de Sistemes de Telecomunicació / Enginyeria Telemàtica 
+ (Castelldefels)",UPC,"8,526",Castelldefels
+261,Enginyeria de Sistemes de Telecomunicació / Enginyeria Telemàtica  (Castelldefels),UPC,"7,060",Castelldefels
+262,Enginyeria de Sistemes i Serveis de Telecomunicacions (Tarragona),URV,"7,776",Tarragona
+263,Enginyeria de Sistemes TIC  (Manresa),UPC,"7,538",Manresa
+264,Enginyeria de Tecnologia i Disseny Tèxtil / Enginyeria Elèctrica / Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica / Enginyeria Química (Terrassa),UPC,"9,085",Terrassa
+265,Enginyeria de Tecnologies i Serveis de Telecomunicació (Barcelona),UPC,"8,876",Barcelona
+266,"Enginyeria de Tecnologies i Serveis de Telecomunicació, Grau en + Màster Universitari Enginyeria de Telecomunicació (Barcelona)",UPC,"11,260",Barcelona
+267,Enginyeria de Xarxes de Telecomunicació (Barcelona),UPF,"9,038",Barcelona
+268,"Enginyeria d'Organització Industrial / Enginyeria Electrònica Industrial i
+Automàtica / Enginyeria Mecànica ""Tecnocampus""  (Mataró)",UPF,"6,980",Mataró
+269,Enginyeria Elèctrica (Barcelona / Sant Adrià de Besòs),UPC,"9,032",Barcelona / Sant Adrià de Besòs
+270,Enginyeria Elèctrica (Girona),UdG,"7,330",Girona
+271,Enginyeria Elèctrica (Tarragona),URV,"7,102",Tarragona
+272,"Enginyeria Elèctrica / Enginyeria Electrònica Industrial i Automàtica
+ (Girona)",UdG,"7,190",Girona
+273,"Enginyeria Elèctrica / Enginyeria Electrònica Industrial i Automàtica
+ (Tarragona)",URV,"9,078",Tarragona
+274,"Enginyeria Elèctrica i Sistemes Ferroviaris / Enginyeria Electrònica Industrial i
+Automàtica / Enginyeria Mecànica  (Vilanova i la Geltrú)",UPC,"7,856",Vilanova i la Geltrú
+275,Enginyeria Electrònica de Telecomunicació (Barcelona),UB,"9,370",Barcelona
+276,Enginyeria Electrònica de Telecomunicació (Barcelona),UPC,"9,370",Barcelona
+277,"Enginyeria Electrònica de Telecomunicació / Enginyeria Informàtica
+ (Cerdanyola del Vallès)",UAB,"9,482",Cerdanyola del Vallès
+278,"Enginyeria Electrònica Industrial i Automàtica ""EU Salesiana de Sarrià""
+(Barcelona)",UAB,"6,732",Barcelona
+279,Enginyeria Electrònica Industrial i Automàtica (Barcelona / Sant Adrià de Besòs),UPC,"9,240",Barcelona / Sant Adrià de Besòs
+280,Enginyeria Electrònica Industrial i Automàtica (Girona),UdG,"7,244",Girona
+281,Enginyeria Electrònica Industrial i Automàtica (Tarragona),URV,"7,050",Tarragona
+282,"Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica ""EU
+Salesiana de Sarrià""  (Barcelona)",UAB,"6,255",Barcelona
+283,"Enginyeria en Energies Renovables i Eficiència Energètica ""EU Salesiana de
+Sarrià"" (Barcelona)",UAB,"6,007",Barcelona
+284,Enginyeria en Geoinformació i Geomàtica (Barcelona),UPC,"6,979",Barcelona
+285,Enginyeria en Informàtica (Barcelona),UPF,"10,433",Barcelona
+286,"Enginyeria en Organització Industrial ""EU Salesiana de Sarrià"" (Barcelona)",UAB,"6,634",Barcelona
+287,"Enginyeria en Organització Industrial i Logística / Enginyeria Química 
+(Igualada)",UdL,"7,170",Igualada
+288,Enginyeria en Sistemes i Tecnologia Naval (Barcelona),UPC,"9,262",Barcelona
+289,"Enginyeria en Tecnologies Aeroespacials, Grau en + Màster Universitari en
+Enginyeria Aeronàutica (Terrassa)",UPC,"12,936",Terrassa
+290,"Enginyeria en Tecnologies Industrials, Grau en + Màster Universitari en
+Enginyeria Industrial  (Girona)",UdG,"8,726",Girona
+291,"Enginyeria en Tecnologies Industrials, Grau en + Màster Universitari en
+Enginyeria Industrial (Terrassa)",UPC,"10,140",Terrassa
+292,"Enginyeria en Tecnologies Industrials, Grau en + Màster Universitari en
+Enginyeria Industrial (Barcelona)",UPC,"11,098",Barcelona
+293,Enginyeria en Vehicles Aeroespacials (Terrassa),UPC,"12,620",Terrassa
+294,Enginyeria Física (Barcelona),UPC,"12,610",Barcelona
+295,Enginyeria Forestal (Lleida),UdL,"5,324",Lleida
+296,Enginyeria Informàtica (Barcelona),UB,"10,246",Barcelona
+297,Enginyeria Informàtica (Barcelona),UPC,"10,246",Barcelona
+298,Enginyeria Informàtica (Cerdanyola del Vallès),UAB,"9,959",Cerdanyola del Vallès
+299,Enginyeria Informàtica (Girona),UdG,"8,631",Girona
+300,Enginyeria Informàtica (Igualada),UdL,"7,930",Igualada
+301,Enginyeria Informàtica (Lleida),UdL,"8,102",Lleida
+302,Enginyeria Informàtica (Tarragona),URV,"8,673",Tarragona
+303,Enginyeria Informàtica (Vilanova i la Geltrú),UPC,"9,736",Vilanova i la Geltrú
+304,"Enginyeria Informàtica, Grau en + Màster Universitari en Enginyeria Informàtica (Barcelona)",UPC,"11,804",Barcelona
+305,"Enginyeria Informàtica, Grau en + Màster Universitari en Enginyeria Informàtica (Lleida)",UdL,"7,735",Lleida
+306,Enginyeria Informàtica / Matemàtiques  (Barcelona),UB,"12,898",Barcelona
+307,"Enginyeria Informàtica de Gestió i Sistemes d'Informació ""Tecnocampus""
+(Mataró)",UPF,"7,236",Mataró
+308,Enginyeria Matemàtica en Ciència de Dades (Barcelona),UPF,"11,818",Barcelona
+309,Enginyeria Matemàtica i Física (Tarragona),URV,"11,810",Tarragona
+310,"Enginyeria Mecànica ""EU Salesiana de Sarrià"" (Barcelona)",UAB,"7,109",Barcelona
+311,Enginyeria Mecànica (Barcelona / Sant Adrià de Besòs),UPC,"10,140",Barcelona / Sant Adrià de Besòs
+312,Enginyeria Mecànica (Girona),UdG,"8,077",Girona
+313,Enginyeria Mecànica (Tarragona),URV,"8,120",Tarragona
+314,Enginyeria Mecatrònica (Vic),UVic-UCC,"5,156",Vic
+315,Enginyeria Química (Barcelona),UB,"11,158",Barcelona
+316,Enginyeria Química (Barcelona / Sant Adrià de Besòs),UPC,"9,844",Barcelona / Sant Adrià de Besòs
+317,Enginyeria Química (Cerdanyola del Vallès),UAB,"9,596",Cerdanyola del Vallès
+318,Enginyeria Química (Girona),UdG,"8,178",Girona
+319,Enginyeria Química (Tarragona),URV,"8,742",Tarragona
+320,Enologia (Tarragona),URV,"5,490",Tarragona
+321,Estadística (Barcelona),UB / UPC,"10,110",Barcelona
+322,Estadística Aplicada (Cerdanyola del Vallès),UAB,"9,500",Cerdanyola del Vallès
+323,Estadística Aplicada / Sociologia  (Cerdanyola del Vallès),UAB,"8,896",Cerdanyola del Vallès
+324,Estudis Anglesos (Barcelona),UB,"5,914",Barcelona
+325,Estudis Anglesos (Cerdanyola del Vallès),UAB,"5,594",Cerdanyola del Vallès
+326,Estudis Anglesos (Lleida),UdL,"5,000",Lleida
+327,Estudis Anglesos / Llengües Aplicades i Traducció  (Lleida),UdL,"5,000",Lleida
+328,Estudis Àrabs i Hebreus (Barcelona),UB,"5,000",Barcelona
+329,Estudis d'Anglès i Català (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+330,Estudis d'Anglès i de Clàssiques (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+331,Estudis d'Anglès i Espanyol (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+332,Estudis d'Anglès i Francès (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+333,Estudis d'Àsia Oriental -Japonès- (Cerdanyola del Vallès),UAB,"6,980",Cerdanyola del Vallès
+334,Estudis d'Àsia Oriental -Xinès- (Cerdanyola del Vallès),UAB,"5,880",Cerdanyola del Vallès
+335,"Estudis d'Espanyol i Xinès: Llengua, Literatura i Cultura (Cerdanyola del Vallès)",UAB,"5,000",Cerdanyola del Vallès
+336,Estudis de Català i Espanyol (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+337,Estudis Globals (Barcelona),UPF,"11,724",Barcelona
+338,Estudis Globals (Barcelona),UPF,"11,724",Barcelona
+339,Estudis Globals / Global Studies (Girona),UdG,"8,800",Girona
+340,Estudis Globals / Global Studies (Vic),UVic-UCC,"5,000",Vic
+341,"Estudis Globals / Global Studies / Turisme 
+(Girona)",UdG,"6,808",Girona
+342,"Estudis Internacionals d'Economia i Empresa - International Business Economics
+(Barcelona)",UPF,"12,392",Barcelona
+343,Estudis Socioculturals de Gènere (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+344,Estudis Literaris (Barcelona),UB,"5,000",Barcelona
+345,Farmàcia (Barcelona),UB,"11,202",Barcelona
+346,"Farmàcia / Nutrició Humana i Dietètica  (Barcelona / Santa Coloma
+de Gramenet)",UB,"11,934",Barcelona / Santa Coloma de Gramenet
+347,Filologia Catalana (Barcelona),UB,"6,160",Barcelona
+348,Filologia Catalana (Girona),UdG,"5,000",Girona
+349,Filologia Catalana: Estudis de Literatura i Lingüística (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+350,Filologia Catalana i Estudis Occitans (Lleida),UdL,"5,000",Lleida
+351,"Filologia Catalana i Estudis Occitans / Llengües Aplicades i Traducció
+ (Lleida)",UdL,"5,000",Lleida
+352,Filologia Catalana / Filologia Hispànica  (Girona),UdG,"6,378",Girona
+353,Filologia Clàssica (Barcelona),UB,"5,000",Barcelona
+354,Filologia Hispànica (Barcelona),UB,"5,000",Barcelona
+355,Filologia Hispànica (Girona),UdG,"5,000",Girona
+356,Filologia Hispànica (Lleida),UdL,"5,000",Lleida
+357,Filologia Hispànica / Llengües Aplicades i Traducció  (Lleida),UdL,"5,000",Lleida
+358,Filosofia (Barcelona),UB,"5,894",Barcelona
+359,Filosofia (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+360,Filosofia (Girona),UdG,"5,000",Girona
+361,"Filosofia, Política i Economia (Cerdanyola del Vallès / Barcelona)",UPF / UAB,"12,046",Cerdanyola del Vallès / Barcelona
+362,Finances i Comptabilitat (Reus),URV,"6,914",Reus
+363,Física (Barcelona),UB,"11,809",Barcelona
+364,Física (Cerdanyola del Vallès),UAB,"12,067",Cerdanyola del Vallès
+365,Física / Matemàtiques  (Barcelona),UB,"13,170",Barcelona
+366,Física / Matemàtiques  (Cerdanyola del Vallès),UAB,"13,370",Cerdanyola del Vallès
+367,Física / Química  (Cerdanyola del Vallès),UAB,"12,348",Cerdanyola del Vallès
+368,Fisioteràpia (Cerdanyola del Vallès),UAB,"11,100",Cerdanyola del Vallès
+369,Fisioteràpia (Lleida),UdL,"10,860",Lleida
+370,"Fisioteràpia ""Tecnocampus"" (Mataró)",UPF,"8,887",Mataró
+371,Fisioteràpia  (Manresa),UVic-UCC,"7,347",Manresa
+372,Fisioteràpia (Reus),URV,"10,170",Reus
+373,Fisioteràpia (L'Hospitalet de Llobregat),UdG / UB,"7,534",L'Hospitalet de Llobregat
+374,Fisioteràpia  (L'Hospitalet de Llobregat),UdG / UB,"7,124",L'Hospitalet de Llobregat
+375,"Fisioteràpia ""EUSES"" (Salt)",UdG,"7,319",Salt
+376,"Fisioteràpia ""Gimbernat"" (Sant Cugat del Vallès)",UAB,"6,558",Sant Cugat del Vallès
+377,"Fisioteràpia ""EUSES"" (Tortosa)",URV,"6,893",Tortosa
+378,Fisioteràpia (Vic),UVic-UCC,"7,205",Vic
+379,Fisioteràpia / Infermeria  (Lleida),UdL,"11,569",Lleida
+380,Fisioteràpia / Nutrició Humana i Dietètica  (Igualada),UdL,"10,655",Igualada
+381,Genètica (Cerdanyola del Vallès),UAB,"11,306",Cerdanyola del Vallès
+382,Geografia (Lleida),UdL,"5,000",Lleida
+383,Geografia i Canvi Global (Barcelona),UB,"5,480",Barcelona
+384,"Geografia, Anàlisi Territorial i Sostenibilitat (Vila-Seca)",URV,"5,000",Vila-Seca
+385,"Geografia, Medi Ambient i Planificació Territorial (Cerdanyola del Vallès)",UAB,"5,000",Cerdanyola del Vallès
+386,"Geografia, Territori i Medi Ambient (Girona)",UdG,"5,000",Girona
+387,Geologia (Barcelona),UB,"5,578",Barcelona
+388,Geologia (Cerdanyola del Vallès),UAB,"5,498",Cerdanyola del Vallès
+389,Gestió Aeronàutica (Sabadell),UAB,"8,994",Sabadell
+390,Gestió de Ciutats Intel·ligents i Sostenibles (Cerdanyola del Vallès),UAB,"7,466",Cerdanyola del Vallès
+391,Gestió d'Informació i Documentació Digital (Barcelona),UB,"6,764",Barcelona
+392,Gestió de la Societat Digital  (Manresa),UVic-UCC,"5,000",Manresa
+393,Gestió en Turisme i Hoteleria (Vila-Seca),URV,"5,000",Vila-Seca
+394,Gestió i Administració Pública (Barcelona),UB,"8,026",Barcelona
+395,"Gestió i Digitalització en l'Esport ""EUNCET""  (Barcelona)",UPC,"5,000",Barcelona
+396,"Gestió i Digitalització en l'Esport / Màrqueting, Innovació i Tecnologia ""EUNCET"" (Barcelona)",UPC,"5,000",Barcelona
+397,"Grau Obert, Programa de  (Barcelona)",UPF,"11,030",Barcelona
+398,"Grau obert ""CETT"" (Barcelona)",UB,"5,000",Barcelona
+399,Història (Barcelona),UB,"5,000",Barcelona
+400,Història (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+401,Història (Girona),UdG,"5,000",Girona
+402,Història (Lleida),UdL,"5,000",Lleida
+403,Història (Tarragona),URV,"5,496",Tarragona
+404,Història / Història de l'Art  (Barcelona),UB,"7,944",Barcelona
+405,Història / Història de l'Art  (Girona),UdG,"7,937",Girona
+406,Història de l'Art (Barcelona),UB,"5,000",Barcelona
+407,Història de l'Art (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+408,Història de l'Art (Girona),UdG,"5,000",Girona
+409,Història de l'Art i Arqueologia (Tarragona),URV,"5,228",Tarragona
+410,Història de l'Art i Gestió del Patrimoni Artístic (Lleida),UdL,"5,000",Lleida
+411,"Història, Política i Economia Contemporànies (Cerdanyola del Vallès)",UAB,"9,006",Cerdanyola del Vallès
+412,Humanitats (Barcelona),UPF,"5,000",Barcelona
+413,Humanitats (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+414,Infermeria (Barcelona),UB,"11,746",Barcelona
+415,"Infermeria ""Sant Pau"" (Barcelona)",UAB,"10,188",Barcelona
+416,"Infermeria ""Escola Superior d'Infermeria del Mar"" (Barcelona)",UPF,"9,636",Barcelona
+417,Infermeria (Cerdanyola del Vallès),UAB,"10,922",Cerdanyola del Vallès
+418,Infermeria (el Vendrell),URV,"10,440",el Vendrell
+419,Infermeria (Girona),UdG,"10,445",Girona
+420,Infermeria (Igualada),UdL,"10,372",Igualada
+421,Infermeria (L'Hospitalet de Llobregat),UB,"10,989",L'Hospitalet de Llobregat
+422,Infermeria (Lleida),UdL,"11,042",Lleida
+423,Infermeria  (Manresa),UVic-UCC,"8,106",Manresa
+424,"Infermeria ""Tecnocampus"" (Mataró)",UPF,"8,932",Mataró
+425,"Infermeria ""Sant Joan de Déu"" (Sant Boi de Llobregat)",UVic-UCC,"8,660",Sant Boi de Llobregat
+426,"Infermeria ""Gimbernat"" (Sant Cugat del Vallès)",UAB,"7,875",Sant Cugat del Vallès
+427,Infermeria (Tarragona),URV,"11,194",Tarragona
+428,Infermeria EUIT de Terrassa (Terrassa),UAB,"8,298",Terrassa
+429,Infermeria (Tortosa),URV,"10,598",Tortosa
+430,Infermeria (Tremp),UdL,"10,177",Tremp
+431,Infermeria (Vic),UVic-UCC,"8,061",Vic
+432,Infermeria (Vilafranca del Penedès / el Vendrell),URV,"10,355",Vilafranca del Penedès / el Vendrell
+433,Informàtica i Serveis (Sant Cugat del Vallès),UAB,"5,000",Sant Cugat del Vallès
+434,Innovació i Seguretat Alimentària (Girona),UdG,"5,000",Girona
+435,Intel·ligència Artificial (Barcelona),UPC,"11,942",Barcelona
+436,Intel·ligència Artificial / Artificial Intelligence (Cerdanyola del Vallès),UAB,"11,050",Cerdanyola del Vallès
+437,Investigació Privada (Barcelona),UB,"5,000",Barcelona
+438,Lingüística (Barcelona),UB,"5,000",Barcelona
+439,Llengua i Literatura Catalanes (Tarragona),URV,"5,000",Tarragona
+440,Llengua i Literatura Espanyoles (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+441,Llengua i Literatura Hispàniques (Tarragona),URV,"5,000",Tarragona
+442,Llengües Aplicades (Barcelona),UPF,"5,000",Barcelona
+443,"Llengües Aplicades / Traducció i Interpretació -Anglès- 
+(Barcelona)",UPF,"10,158",Barcelona
+444,Llengües i Literatures Modernes (Barcelona),UB,"5,000",Barcelona
+445,Llengües Romàniques i les seves Literatures (Barcelona),UB,"5,000",Barcelona
+446,"Logística Empresarial ""Mediterrani"" (Barcelona)",UdG,"5,000",Barcelona
+447,"Logística i Negocis Marítims ""Tecnocampus"" (Mataró)",UPF,"5,802",Mataró
+448,Logopèdia (Cerdanyola del Vallès),UAB,"8,970",Cerdanyola del Vallès
+449,"Màrqueting ""ESIC"" (Barcelona)",URV,"5,000",Barcelona
+450,"Màrqueting ""ESIC"" (Barcelona)",URV,"5,000",Barcelona
+451,"Màrqueting ""Mediterrani"" (Barcelona)",UdG,"5,000",Barcelona
+452,"Màrqueting i Comunicació Digital ""Centre Universitari EAE"" (Barcelona)",UdL,"5,000",Barcelona
+453,Màrqueting i Comunicació Empresarial (Vic),UVic-UCC,"5,726",Vic
+454,"Màrqueting i Comunitats Digitals ""Tecnocampus"" (Mataró)",UPF,"5,876",Mataró
+455,"Màrqueting i Comunitats Digitals / Turisme i Gestió del Lleure ""Tecnocampus""
+ (Mataró)",UPF,"5,000",Mataró
+456,"Màrqueting, Esdeveniments i Entreteniment ""CETT"" (Barcelona)",UB,"5,000",Barcelona
+457,"Màrqueting, Innovació i Tecnologia ""EUNCET"" 
+(Barcelona)",UPC,"6,324",Barcelona
+458,"Màrqueting, Innovació i Tecnologia ""EUNCET"" 
+(Barcelona)",UPC,"6,324",Barcelona
+459,"Màrqueting, Innovació i Tecnologia ""EUNCET"" 
+(Terrassa)",UPC,"5,000",Terrassa
+460,"Màrqueting, Innovació i Tecnologia ""EUNCET"" (Terrassa)",UPC,"5,000",Terrassa
+461,Matemàtica Computacional i Analítica de Dades (Cerdanyola del Vallès),UAB,"11,442",Cerdanyola del Vallès
+462,Matemàtiques (Barcelona),UB,"12,286",Barcelona
+463,Matemàtiques (Barcelona),UPC,"12,286",Barcelona
+464,Matemàtiques (Cerdanyola del Vallès),UAB,"12,002",Cerdanyola del Vallès
+465,Medicina (Barcelona),UB,"12,850",Barcelona
+466,Medicina (Barcelona),UPF,"12,850",Barcelona
+467,Medicina (Cerdanyola del Vallès),UAB,"12,494",Cerdanyola del Vallès
+468,Medicina (Girona),UdG,"12,453",Girona
+469,Medicina (L'Hospitalet de Llobregat),UB,"12,650",L'Hospitalet de Llobregat
+470,Medicina (Lleida),UdL,"12,467",Lleida
+471,Medicina (Reus),URV,"12,576",Reus
+472,Medicina (Vic),UVic-UCC,"11,865",Vic
+473,Microbiologia (Cerdanyola del Vallès),UAB,"11,016",Cerdanyola del Vallès
+474,"Mitjans Audiovisuals ""Tecnocampus"" (Mataró)",UPF,"5,000",Mataró
+475,"Moda ""ERAM"" (Girona / Salt)",UdG,"5,000",Girona / Salt
+476,Multimèdia. Aplicacions i Videojocs (Vic),UVic-UCC,"5,000",Vic
+477,Musicologia (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+478,Nanociència i Nanotecnologia (Cerdanyola del Vallès),UAB,"10,736",Cerdanyola del Vallès
+479,Nàutica i Transport Marítim (Barcelona),UPC,"8,300",Barcelona
+480,"Negoci Digital i Innovació en Turisme ""CETT"" (Barcelona)",UB,"5,000",Barcelona
+481,"Negoci Digital i Innovació en Turisme / Turisme ""CETT"" 
+(Barcelona)",UB,"5,000",Barcelona
+482,"Negocis i Màrqueting Internacionals - Bachelor in International Business and
+Marketing ""ESCI"" (Barcelona)",UPF,"9,000",Barcelona
+483,"Negocis i Màrqueting Internacionals - Bachelor in International Business and
+Marketing ""ESCI"" (Barcelona)",UPF,"9,000",Barcelona
+484,Nutrició Humana i Dietètica (Lleida),UdL,"8,199",Lleida
+485,"Nutrició Humana i Dietètica ""Tecnocampus"" (Mataró)",UPF,"5,040",Mataró
+486,Nutrició Humana i Dietètica (Reus),URV,"8,033",Reus
+487,"Nutrició Humana i Dietètica ""EUSES"" (Salt)",UdG,"5,000",Salt
+488,Nutrició Humana i Dietètica (Santa Coloma de Gramenet),UB,"9,939",Santa Coloma de Gramenet
+489,Nutrició Humana i Dietètica (Vic),UVic-UCC,"5,000",Vic
+490,Odontologia (L'Hospitalet de Llobregat),UB,"12,411",L'Hospitalet de Llobregat
+491,Odontologia (Manresa / Vic),UVic-UCC,"11,074",Manresa / Vic
+492,Òptica i Optometria (Terrassa),UPC,"8,388",Terrassa
+493,Paisatgisme (Barcelona / Castelldefels),UPC,"7,916",Barcelona / Castelldefels
+494,Pedagogia (Barcelona),UB,"8,213",Barcelona
+495,Pedagogia (Cerdanyola del Vallès),UAB,"8,702",Cerdanyola del Vallès
+496,Pedagogia (Girona),UdG,"7,978",Girona
+497,Pedagogia (Tarragona),URV,"8,355",Tarragona
+498,Periodisme (Barcelona),UPF,"10,426",Barcelona
+499,Periodisme (Cerdanyola del Vallès),UAB,"9,360",Cerdanyola del Vallès
+500,Periodisme (Tarragona),URV,"8,806",Tarragona
+501,Periodisme (Vic),UVic-UCC,"5,000",Vic
+502,Pilot d'Aviació Comercial i Operacions Aèries (Reus),URV,"8,564",Reus
+503,Podologia (L'Hospitalet de Llobregat),UB,"8,872",L'Hospitalet de Llobregat
+504,Podologia  (Manresa),UVic-UCC,"5,000",Manresa
+505,Prevenció i Seguretat Integral (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+506,Prevenció i Seguretat Integral (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+507,"Producció de Música i So per a la Indústria de l'Entreteniment ""ENTI"" (Barcelona)",UB,"5,000",Barcelona
+508,Psicologia (Barcelona),UB,"9,892",Barcelona
+509,Psicologia (Cerdanyola del Vallès),UAB,"9,840",Cerdanyola del Vallès
+510,Psicologia (Girona),UdG,"9,710",Girona
+511,Psicologia (Lleida),UdL,"9,762",Lleida
+512,Psicologia (Tarragona),URV,"9,540",Tarragona
+513,Psicologia (Vic),UVic-UCC,"7,948",Vic
+514,Publicitat i Relacions Públiques (Barcelona),UPF,"11,430",Barcelona
+515,Publicitat i Relacions Públiques (Cerdanyola del Vallès),UAB,"10,892",Cerdanyola del Vallès
+516,Publicitat i Relacions Públiques (Girona),UdG,"9,480",Girona
+517,Publicitat i Relacions Públiques (Tarragona),URV,"9,690",Tarragona
+518,Publicitat i Relacions Públiques (Vic),UVic-UCC,"5,000",Vic
+519,"Publicitat, Relacions Públiques i Màrqueting ""ESRP"" (Barcelona)",UB,"8,404",Barcelona
+520,Química (Barcelona),UB,"10,028",Barcelona
+521,Química (Cerdanyola del Vallès),UAB,"9,804",Cerdanyola del Vallès
+522,Química (Girona),UdG,"8,512",Girona
+523,Química (Tarragona),URV,"9,342",Tarragona
+524,Química (Tarragona),URV,"9,342",Tarragona
+525,Relacions Internacionals (Cerdanyola del Vallès),UAB,"11,570",Cerdanyola del Vallès
+526,Relacions Laborals (Barcelona),UPF,"7,968",Barcelona
+527,Relacions Laborals (Cerdanyola del Vallès),UAB,"8,492",Cerdanyola del Vallès
+528,Relacions Laborals i Recursos Humans(Barcelona),UB,"8,176",Barcelona
+529,Relacions Laborals i Recursos Humans (Lleida),UdL,"5,000",Lleida
+530,Relacions Laborals i Recursos Humans (Tarragona),URV,"7,492",Tarragona
+531,Seguretat (Mollet del Vallès),UB,"8,678",Mollet del Vallès
+532,Sociologia (Barcelona),UB,"7,514",Barcelona
+533,Sociologia (Cerdanyola del Vallès),UAB,"7,390",Cerdanyola del Vallès
+534,"Tecnologies Industrials i Anàlisi Econòmica, Grau en + Màster Universitari en Enginyeria Industrial (Barcelona)",UPC / UPF,"12,540",Barcelona
+535,Tecnologies Marines (Barcelona),UPC,"7,548",Barcelona
+536,Teràpia Ocupacional EUIT de Terrassa (Terrassa),UAB,"5,000",Terrassa
+537,Teràpia Ocupacional (Vic),UVic-UCC,"5,000",Vic
+538,Traducció i Interpretació -Alemany- (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+539,"Traducció i Interpretació -Alemany / Francès / Llengua de Signes Catalana-
+(Barcelona)",UPF,"5,000",Barcelona
+540,Traducció i Interpretació -Anglès- (Barcelona),UPF,"6,132",Barcelona
+541,Traducció i Interpretació -Anglès- (Cerdanyola del Vallès),UAB,"7,128",Cerdanyola del Vallès
+542,Traducció i Interpretació -Francès- (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+543,Treball Social (Barcelona),UB,"7,830",Barcelona
+544,Treball Social (Girona),UdG,"7,106",Girona
+545,Treball Social (Lleida),UdL,"6,136",Lleida
+546,Treball Social (Tarragona),URV,"7,362",Tarragona
+547,"Turisme ""CETT"" (Barcelona)",UB,"5,000",Barcelona
+548,"Turisme ""CETT"" (Barcelona)",UB,"5,000",Barcelona
+549,"Turisme ""Euroaula"" (Barcelona)",UdG,"5,000",Barcelona
+550,"Turisme ""Mediterrani"" (Barcelona)",UdG,"5,000",Barcelona
+551,Turisme (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+552,Turisme (Cerdanyola del Vallès),UAB,"5,000",Cerdanyola del Vallès
+553,Turisme (Girona),UdG,"5,044",Girona
+554,Turisme (Lleida),UdL,"5,000",Lleida
+555,"Turisme / Geografia, Territori i Medi Ambient  (Girona)",UdG,"5,000",Girona
+556,"Turisme / Màrqueting ""Mediterrani""  (Barcelona)",UdG,"5,000",Barcelona
+557,Turisme / Publicitat i Relacions Públiques  (Girona),UdG,"9,308",Girona
+558,Veterinària (Cerdanyola del Vallès),UAB,"12,024",Cerdanyola del Vallès
+559,Veterinària (Cerdanyola del Vallès),UAB,"12,024",Cerdanyola del Vallès
