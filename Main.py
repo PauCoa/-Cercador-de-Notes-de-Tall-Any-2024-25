@@ -320,3 +320,4 @@ root.after(100, load_csv)
 
 # Start the GUI
 root.mainloop()
+
